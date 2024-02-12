@@ -47,8 +47,6 @@ This project is an API for an online book store, allowing users to create accoun
 
    💡 There is a Postman collection included in the project root directory (_book-store-api.postman_collection.json_) that contains pre-configured requests to test the API endpoints.
 
-   
-
 ### API Main Endpoints
 
 - POST /api/users - Create a new user account.
