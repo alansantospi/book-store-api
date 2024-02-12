@@ -70,7 +70,7 @@ This project is an API for an online book store, allowing users to create accoun
 🚨 **Note**: The tests use an in-memory database for testing to ensure a clean and isolated environment during testing.
 
 ### Contributors
-alansantospi
+[alansantospi](https://github.com/alansantospi)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
