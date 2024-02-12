@@ -45,7 +45,7 @@ This project is an API for an online book store, allowing users to create accoun
 
 2. 🧪 Test the API using a tool like Postman or curl.
 
-   💡 There is a Postman collection included in the project (book-store-api.postman_collection.json) that contains pre-configured requests to test the API endpoints.
+   💡 There is a Postman collection included in the project root directory (_book-store-api.postman_collection.json_) that contains pre-configured requests to test the API endpoints.
 
    
 
